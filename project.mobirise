@@ -67,7 +67,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "modified": "2024-07-01T06:04:14.595Z"
   },
   "pages": {
